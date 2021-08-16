@@ -1,0 +1,6 @@
+id=SystemUIOverlay
+name=SystemUIOverlay
+version=v1.0
+versionCode=1
+author=oddlyspaced
+description=Update and test SystemUI system-lessly
